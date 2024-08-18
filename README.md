@@ -1,2 +1,1 @@
 # projetoDetectObjetoYolo
-# projetoDetectObjetoYolo
