@@ -346,6 +346,34 @@ Para utilizar o sistema, basta executar o código em um ambiente Python com as b
 [Ouça o áudio aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados.mp3).<br>
 [Ouça o áudio em portugês aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados_portugues.mp3).
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="(objetos_detectados_portugues.mp3)"></iframe>
+
+<audio controls autoplay>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<audio controls id="music">
+<source src="mj.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<p>Click the buttons to play or pause the music.</p>
+<button onclick="play()" type="button">Play </button>
+<button onclick="pause()" type="button">Pause</button>
+<script>
+var myMusic= document.getElementById("music");
+function play() {
+myMusic.play();
+}
+function pause() {
+myMusic.pause();
+}
+</script>
+
+<video controls="" autoplay="" name="media">
+    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
+</video>
+
 ## Considerações Finais
 
 Este sistema demonstra o potencial da combinação de visão computacional e processamento de linguagem natural para criar aplicações interativas e acessíveis. O feedback audível em tempo real sobre os objetos detectados pode ser aplicado em diversos cenários, como:
