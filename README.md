@@ -343,7 +343,8 @@ Para utilizar o sistema, basta executar o código em um ambiente Python com as b
 
 ![image](https://github.com/user-attachments/assets/c707667e-a062-450f-b69c-b735675c442e)
 
-
+[Ouça o áudio aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados.mp3).
+[Ouça o áudio aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados_portugues.mp3).
 
 ## Considerações Finais
 
