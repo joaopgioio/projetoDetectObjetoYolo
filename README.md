@@ -343,36 +343,11 @@ Para utilizar o sistema, basta executar o código em um ambiente Python com as b
 
 ![image](https://github.com/user-attachments/assets/c707667e-a062-450f-b69c-b735675c442e)
 
-[Ouça o áudio aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados.mp3).<br>
-[Ouça o áudio em portugês aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados_portugues.mp3).
+[Baixar o áudio aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados.mp4).<br>
+[Baixar o áudio em portugês aqui](https://github.com/joaopgioio/projetoDetectObjetoYolo/blob/master/objetos_detectados_portugues.mp4).
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="(objetos_detectados_portugues.mp3)"></iframe>
-
-<audio controls autoplay>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-<audio controls id="music">
-<source src="mj.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-<p>Click the buttons to play or pause the music.</p>
-<button onclick="play()" type="button">Play </button>
-<button onclick="pause()" type="button">Pause</button>
-<script>
-var myMusic= document.getElementById("music");
-function play() {
-myMusic.play();
-}
-function pause() {
-myMusic.pause();
-}
-</script>
-
-<video controls="" autoplay="" name="media">
-    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
-</video>
+https://github.com/user-attachments/assets/aeeffbfc-436b-4004-80ce-7d10c6c8f487
+https://github.com/user-attachments/assets/09adc28c-645a-431a-bf7c-5cc8cc3cfd37
 
 ## Considerações Finais
 
