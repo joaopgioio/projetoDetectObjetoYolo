@@ -341,6 +341,10 @@ Converte os dados do frame em um objeto de imagem PIL para uso posterior no proc
 
 Para utilizar o sistema, basta executar o código em um ambiente Python com as bibliotecas necessárias instaladas. O sistema iniciará a captura de vídeo da webcam e fornecerá feedback visual e audível sobre os objetos detectados em tempo real.
 
+![image](https://github.com/user-attachments/assets/c707667e-a062-450f-b69c-b735675c442e)
+
+
+
 ## Considerações Finais
 
 Este sistema demonstra o potencial da combinação de visão computacional e processamento de linguagem natural para criar aplicações interativas e acessíveis. O feedback audível em tempo real sobre os objetos detectados pode ser aplicado em diversos cenários, como:
